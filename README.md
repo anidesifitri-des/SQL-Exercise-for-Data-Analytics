@@ -1,4 +1,4 @@
-# SQL-Exercise-for-Data-Analytics
+# Portofolio-for-Data-Analytics
 SQL Portofolio for Data Intern
 
 # SQL Project 1: Mobile Prices Analysis (Source : Kaggle)
